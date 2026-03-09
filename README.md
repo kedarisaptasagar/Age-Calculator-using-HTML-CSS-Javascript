@@ -1,0 +1,2 @@
+Age-Calculator-using-HTML-CSS-Javascript
+This project is a simple Age Calculator built using HTML, CSS, and JavaScript. The user selects their birth date using a date input field, and when the calculate button is clicked, JavaScript calculates the age by subtracting the birth year from the current year. The result is displayed on the webpage. The design includes a styled card layout with basic colors and rounded inputs for a clean interface
